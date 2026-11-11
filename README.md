@@ -62,4 +62,4 @@ Desarrollado en vinculación con:
 * **[Carlos Abdel Parra Oliva]** — Ingeniería de Software (3.º Semestre) [Github](https://github.com/0Chuck)
 * **[César Conrado González Muñoz]** — Ingeniería de Software (3.º Semestre) [Github](https://github.com/)
 * **[Santiago Orozco Reynosa]** — Ingeniería de Software (3.º Semestre) [Github](https://github.com/)
-* **[Jonathan Enciso Jiménez]** — Ingeniería en Inteligencia Artificial (3.º Semestre) [Github](https://github.com/)
+* **[Jonathan Enciso Jiménez]** — Ingeniería en Inteligencia Artificial (3.º Semestre) [Github](https://github.com/Purpleskull3747)
