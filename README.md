@@ -71,6 +71,28 @@ BaaPP_webapp/
 
 ---
 
+## Ejecución Local (Desarrollo)
+
+### 1. Requisitos Previos
+* **Node.js 20+** y **npm**.
+* *(Opcional)* Tener [`BaaPP-backend`](https://github.com/Baa-PP/BaaPP-backend) corriendo en `http://localhost:5000`.
+
+### 2. Instalar y Levantar el Portal Web
+```bash
+# 1. Instalar dependencias
+npm install
+
+# 2. Iniciar el servidor de desarrollo Vite
+npm run dev
+```
+* Abre **`http://localhost:3000`** en tu navegador.
+* Por defecto, [`src/api/client.ts`](src/api/client.ts) apunta a `http://localhost:5000/api/v1`. Si necesitas cambiar la URL del backend, crea un archivo `.env` en la raíz:
+  ```env
+  VITE_API_BASE_URL=http://localhost:5000/api/v1
+  ```
+
+---
+
 ## Equipo de Desarrollo
 
 * **[Lucas Patrick Castineiras]** — Ingeniería de Software (5.º Semestre) · [GitHub](https://github.com/Locas1000)
